@@ -1,6 +1,8 @@
 
 # AngularCardView
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
+
+origen: https://medium.com/javascript-in-plain-english/create-a-responsive-card-grid-in-angular-using-flex-layout-3d1b58411e7a
 ![images](card-view.png)
 ## Development server
 
